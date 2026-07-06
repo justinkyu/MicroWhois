@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microwhois/__init__.py
+microwhois/__main__.py
+microwhois/cli.py
+microwhois/core.py
+microwhois.egg-info/PKG-INFO
+microwhois.egg-info/SOURCES.txt
+microwhois.egg-info/dependency_links.txt
+microwhois.egg-info/entry_points.txt
+microwhois.egg-info/top_level.txt
