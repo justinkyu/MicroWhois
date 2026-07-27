@@ -22,4 +22,5 @@ classifiers = [
 microwhois = "microwhois.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microwhois"]
